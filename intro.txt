@@ -3,3 +3,4 @@ e realizar um for que passe por todo os arrys, indntificando palavras chaves
 as palavras chave vão dizer se sao felizzes ou não, e  com isso os classificar 
 o passo 3 será feito com o "if" 
 depois printar as posições das palavras que forem armazenadas
+-nota mental lembrar de arrumar uma extensão que eu consiga executar os arquivos-
